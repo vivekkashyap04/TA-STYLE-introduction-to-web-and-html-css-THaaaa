@@ -1,0 +1,19 @@
+body{
+    background-color: #22396a;
+    color:white
+}
+.profile{
+    text-align: center;
+}
+h2{
+    color:green;
+}
+footer{
+    text-align: center;
+    background-color: royalblue;
+    padding: 10px;
+}
+a{
+    color:red;
+    text-decoration: none;
+}
